@@ -1,4 +1,5 @@
 import Link from "next/link";
+// @ts-ignore
 import { Icons } from "./icons";
 import { buttonVariants } from "./ui/Button";
 import { getAuthSession } from "@/lib/auth";

@@ -1,5 +1,6 @@
 import { FC } from "react";
 import { User } from "next-auth";
+// @ts-ignore
 import { Avatar, AvatarFallback } from "./ui/avatar";
 import Image from "next/image";
 import { Icons } from "./icons";
