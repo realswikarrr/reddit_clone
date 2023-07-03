@@ -2,8 +2,7 @@
 
 import { FC, useState } from "react";
 import { Label } from "./ui/Label";
-// @ts-ignore
-import { Textarea } from "./ui/textarea";
+import { Textarea } from "@/components/ui/Textarea";
 import { Button } from "./ui/Button";
 import { useMutation } from "@tanstack/react-query";
 import { CommentRequest } from "@/lib/validators/comment";

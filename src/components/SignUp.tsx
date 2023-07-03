@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Icons } from "./icons";
+import { Icons } from "@/components/Icons";
 import UserAuthForm from "./UserAuthForm";
 
 const SignUp = () => {
